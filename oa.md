@@ -13,3 +13,28 @@ https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=445808&extra=page%
 有三个步骤，第一个是validate given DNA list，第二步是merge，第三步是把merge的dna list给split每三个char，根据另外一个dict里面来count重复的，
 比如AAABBBCCCAAA split之后是AAA BBB CCC AAA，另外一个dict bob:AAA, sam: BBB, 
 output是 bob:2, sam: 1...
+
+---
+
+var Foo = function (a) {
+function bar () {
+console.log(a)
+}
+ 
+this.baz = function () {
+console.log(a);
+}
+}
+ 
+Foo.prototype = {
+biz: function () {
+console.log(a);
+}
+}
+ 
+var f = new Foo(7);
+f.bar();
+f.baz();
+f.biz();
+
+all output is 7
