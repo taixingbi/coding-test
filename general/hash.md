@@ -1,7 +1,7 @@
 ## Collision Handling
 Since a hash function gets us a small number for a big key, there is possibility that two keys result in same value. The situation where a newly inserted key maps to an already occupied slot in hash table is called collision and must be handled using some collision handling technique. Following are the ways to handle collisions:
 
-### Chaining
+### Separate Chaining
 https://www.geeksforgeeks.org/hashing-set-2-separate-chaining/
       
 The idea is to make each cell of hash table point to a linked list of records that have same hash function value. Chaining is simple, but requires additional memory outside the table.
