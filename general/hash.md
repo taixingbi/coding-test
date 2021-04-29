@@ -19,5 +19,5 @@ Disadvantages:
 4) Uses extra space for links. 
 
 ### Open Addressing. 
-https://www.geeksforgeeks.org/hashing-set-3-open-addressing/                  
+https://www.geeksforgeeks.org/hashing-set-3-open-addressing/                                 
 In open addressing, all elements are stored in the hash table itself. Each table entry contains either a record or NIL. When searching for an element, we one by one examine table slots until the desired element is found or it is clear that the element is not in the table. 
