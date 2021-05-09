@@ -1,5 +1,5 @@
  ### kaden health
- kaden health is website and mobile APP to help people who have mental problems. patient can do online-therapy, like treament, scheduling, real time analysis.
+ kaden health is to aim approach to addiction treatment by developing innovative web and mobile applications end-to-end, like treament, scheduling, real time analysis.
  
  #### what I do in Kaden
  I am fullstack engineer. 
