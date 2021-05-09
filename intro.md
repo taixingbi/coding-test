@@ -3,7 +3,10 @@ Kaden health is a technology-enabled behavioral health platform that’s humaniz
 
  #### what I do in Kaden
  I work as a fullstack engineer. 
- ##### Backend
+ ##### Backend 
+For the backend, it includes three parts: REST API, Database Model, and video analysis.
+ 
+ ###### REST API
  I am working on REST API. For backend language, I use python/Java, For the framework,  I use Django/Flask and Spring boot.  
  
  ###### Database
