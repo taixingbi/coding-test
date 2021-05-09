@@ -13,8 +13,8 @@ For the backend language, I use python/Java, For the framework,  I use Django/Fl
  For the Database,  I use Mysql for relational database and MogoDB for No-sql
  
  ###### video analysis
- setup real-time dataflow using Kafka and Spark
- task: depresion/axniety detection through audio, emotional detection through audio. sentiment analysis through transcription. 
+ In the video analysis, I setup real-time dataflow using Kafka and Spark. 
+ In the machine learning task: I work on depresion/axniety detection through audio, emotional detection through audio. sentiment analysis through transcription. 
 
  ##### frontend
  Frontend language use javascript, framework use React/Redux.    
