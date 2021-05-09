@@ -2,7 +2,7 @@
 Kaden health is a technology-enabled behavioral health platform that’s humanizing addiction recovery by developing innovative web and mobile applications end-to-end, like treament, scheduling, real time analysis.
 
  #### what I do in Kaden
- I am fullstack engineer. 
+ I work as a fullstack engineer. 
  ##### Backend
  I work on rest API. Backend language use python/Java, framework use Django/Flask and Spring boot.  
  
