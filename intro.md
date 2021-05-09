@@ -17,5 +17,5 @@ For the backend language, I use python/Java, For the framework,  I use Django/Fl
  In the machine learning task: I work on depresion detection through patient audio, emotional detection through video. sentiment analysis through transcription. 
 
  ##### frontend
- Frontend language use javascript, framework use React/Redux.    
+ For Frontend, I use javascript, the framework is React/Redux.    
 
