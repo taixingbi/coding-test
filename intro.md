@@ -1,6 +1,6 @@
  ### kaden health
- kaden health aim approach to addiction treatment by developing innovative web and mobile applications end-to-end, like treament, scheduling, real time analysis.
- 
+Kaden is a technology-enabled behavioral health platform that’s humanizing addiction recovery. by developing innovative web and mobile applications end-to-end, like treament, scheduling, real time analysis.
+
  #### what I do in Kaden
  I am fullstack engineer. 
  ##### Backend
