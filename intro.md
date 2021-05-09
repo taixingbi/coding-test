@@ -4,7 +4,7 @@
  #### what I do in Kaden
  I am fullstack engineer. 
  ##### Backend
- Backend language use python/Java, framework use Django/Flask and Spring boot. I work on rest API, database, and video analysis.
+ I work on rest API. Backend language use python/Java, framework use Django/Flask and Spring boot.  
  
  ###### Database
  relational database: Mysql and Nosql: MogoDB.
