@@ -7,10 +7,10 @@ Kaden health is a technology-enabled behavioral health platform that’s humaniz
 For the backend, it includes three parts: REST API, Database Model, and video analysis.
  
  ###### REST API
- I am working on REST API. For backend language, I use python/Java, For the framework,  I use Django/Flask and Spring boot.  
+For the backend language, I use python/Java, For the framework,  I use Django/Flask and Spring boot.  
  
  ###### Database
- I use Mysql for relational database and MogoDB for No-sql
+ For the Database,  I use Mysql for relational database and MogoDB for No-sql
  
  ###### video analysis
  setup real-time dataflow using Kafka and Spark
