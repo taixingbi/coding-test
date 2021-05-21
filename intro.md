@@ -21,4 +21,4 @@ For the backend language, I use python/Java, For the framework,  I use Django/Fl
 
  ##### frontend
  For Frontend, I use javascript, the framework is React/Redux.    
-
+ collect training data
