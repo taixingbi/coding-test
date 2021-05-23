@@ -1,7 +1,7 @@
 ## Collision Handling
 A hash collision occurs when a hash algorithm produces the same hash value for two different input values.
 
-### Separate Chaining
+### Chaining
 https://www.geeksforgeeks.org/hashing-set-2-separate-chaining/
       
 The idea is to make each cell of hash table point to a linked list of records that have same hash function value. Chaining is simple, but requires additional memory outside the table.
