@@ -1,5 +1,5 @@
 ## Collision Handling
-Since a hash function gets us a small number for a big key, there is possibility that two keys result in same value. The situation where a newly inserted key maps to an already occupied slot in hash table is called collision and must be handled using some collision handling technique. Following are the ways to handle collisions:
+A hash collision occurs when a hash algorithm produces the same hash value for two different input values.
 
 ### Separate Chaining
 https://www.geeksforgeeks.org/hashing-set-2-separate-chaining/
