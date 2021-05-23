@@ -1,7 +1,7 @@
 ## Collision Handling
 A hash collision occurs when a hash algorithm produces the same hash value for two different input values.
 
-### Chaining
+### Chaining (open hashing)
 https://www.geeksforgeeks.org/hashing-set-2-separate-chaining/
       
 The idea is to make each cell of hash table point to a linked list of records that have same hash function value. Chaining is simple, but requires additional memory outside the table.
@@ -18,7 +18,7 @@ Disadvantages:
 3) If the chain becomes long, then search time can become O(n) in the worst case. 
 4) Uses extra space for links. 
 
-### Open Addressing. 
+### Open Addressing ( close hashing) 
 https://www.geeksforgeeks.org/hashing-set-3-open-addressing/           
 
 In open addressing, all elements are stored in the hash table itself. Each table entry contains either a record or NIL. When searching for an element, we one by one examine table slots until the desired element is found or it is clear that the element is not in the table. 
