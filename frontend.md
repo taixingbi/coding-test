@@ -22,3 +22,19 @@ There are many things responsible for reducing page load time. We will tell you 
 ## 5. 10. What is callback function in Javascript?
 A callback function is a function which is accessible by another function and invoked after the first function if that first function completed.
 
+## 6. What is anonymous function in JavaScript
+It is a function that was declared without any function named identifier to refer to it. It is usually not accessible after its initial creation. These functions are created at run time.
+
+## 7.
+
+## 8.
+
+## 9.
+
+## 10.
+
+## 11.
+
+## 12.
+
+## 13.
