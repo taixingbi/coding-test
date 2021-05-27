@@ -11,3 +11,6 @@ CORS is Cross-Origin Resource Sharing and it allows you to make requests from on
 
 ## 3. What
 
+## 4. What is the difference between local storage session storage and cookies?
+Local Storage	Session Storage	Cookies	It stores data with no expiration date	It stores data only for a session (until the tab is closed)	These are text files that contain a small piece of data	The storage limit is maximum compared to two.	The storage limit is larger than the cookie.	The limit is less than 4KB for cookies.	The data stored in Local Storage can be easily read and change.	The data stored in Session Storage can also be easily read and change.	Data can only be read in the form of plain text.	Local Storage allows user to store Javascript primitives.	Session Storage also allows you to store Javascript primitives.	Cookies only allow you to store strings.
+
