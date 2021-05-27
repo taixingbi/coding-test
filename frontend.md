@@ -12,6 +12,6 @@ CORS is Cross-Origin Resource Sharing and it allows you to make requests from on
 ## 3. What
 
 ## 4. What is the difference between local storage session storage and cookies?
-[link to Google!](https://github.com/taixingbi/interview-question/blob/master/images/1.png?raw=true)
+![Alt desc](https://github.com/taixingbi/interview-question/blob/master/images/1.png?raw=true)
 
 
