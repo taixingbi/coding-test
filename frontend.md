@@ -12,6 +12,12 @@ CORS is Cross-Origin Resource Sharing and it allows you to make requests from on
 ## 3. What is the difference between local storage session storage and cookies?
 ![Alt desc](https://github.com/taixingbi/interview-question/blob/master/images/1.png?raw=true)
 
-## 4. What
+## 4. What are three ways to reduce page load time?
+There are many things responsible for reducing page load time. We will tell you the best three ways to reduce it’s loading time-  
+1. Image Optimization: Always scale your pics or videos before uploading them to a page.
+2. Browser Cache: The use of cache will increase speed for pages that you have already visited.
+3. Compress and Optimize Content: Compressing the content of a website reduces page load time to a great extent.
+4. StyleSheet Reference on Top: Putting stylesheet reference to the header of a document helps your page to load faster
+
 
 
