@@ -19,5 +19,6 @@ There are many things responsible for reducing page load time. We will tell you 
 3. Compress and Optimize Content: Compressing the content of a website reduces page load time to a great extent.
 4. StyleSheet Reference on Top: Putting stylesheet reference to the header of a document helps your page to load faster
 
-
+## 5. 10. What is callback function in Javascript?
+A callback function is a function which is accessible by another function and invoked after the first function if that first function completed.
 
