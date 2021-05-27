@@ -25,7 +25,8 @@ A callback function is a function which is accessible by another function and in
 ## 6. What is anonymous function in JavaScript
 It is a function that was declared without any function named identifier to refer to it. It is usually not accessible after its initial creation. These functions are created at run time.
 
-## 7.
+## 7. What is Ajax in JavaScript
+Ajax stands for Asynchronous JavaScript And XML and it is not a programming language. It uses XML to transport data, but it is equally common to transport data as JSON text or plain text.
 
 ## 8.
 
