@@ -46,10 +46,28 @@ https://www.citrix.com/solutions/app-delivery-and-security/load-balancing/what-i
 2. A Service-Oriented Architecture is a collection of services which communicate with each other. The communication can involve either simple data passing or it could involve two or more services coordinating some activity.
 3. Microservice Architecture is an architectural style that structures an application as a collection of small autonomous services, modeled around a business domain.
 benifit
-  . Technology diversity, e., Microservices can mix easily with other frameworks, libraries,  and databases     
-  . Fault isolation, e., a process failure should not bring the whole system down.        
-  . Greater support for smaller and parallel team       
-  . Independent deployment      
-  . Deployment time reduce        
+
+### 9 Microservices Architecture beinifit and challenges
+beinifit
+1. Technology diversity, e., Microservices can mix easily with other frameworks, libraries,  and databases     
+2. Fault isolation, e., a process failure should not bring the whole system down.        
+3. Greater support for smaller and parallel team       
+4. Independent deployment      
+5. Deployment time reduce        
+
+challenges
+1. Microservices always rely on each other. Therefore, they need to communicate with each other.
+2. As it is distributed system, it is a heavily involved model.
+3. If you are using Microservice architecture, you need to ready for operations overhead.
+4. You need skilled professionals to support heterogeneously distributed microservices.
+
+### 10 what is API gate
+deploy an already public API to achieve better performance, monitoring and throttling.
+
+### 11
+
+
+
+
 
 
