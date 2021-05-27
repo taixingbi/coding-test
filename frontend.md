@@ -28,7 +28,10 @@ It is a function that was declared without any function named identifier to refe
 ## 7. What is Ajax in JavaScript
 Ajax stands for Asynchronous JavaScript And XML and it is not a programming language. It uses XML to transport data, but it is equally common to transport data as JSON text or plain text.
 
-## 8.
+## 8. What is the difference between responsive and adaptive web design?
+Responsive Web Design : It built on a fluid grid that will change with the browser automatically, no matter what the screen resolution is holding content can break apart and realign if need be.
+
+Adaptive Web Design : It not necessarily set on a fluid grid; targets specific device resolutions like (320, 768, 1024 etc); can have set relative widths with (%) and controlled by media query.
 
 ## 9.
 
