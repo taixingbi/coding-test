@@ -39,7 +39,9 @@ In an event, bubbling handlers are called when one element is nested into a seco
 
 . Event Capturing
 Event capturing starts from the top element to the target element. Modern browsers don't support this event but we can achieve that with the help of code.
-## 10.
+## 10. What is a promise?
+A promise means to the object which is responsible for producing a single value as the result in the upcoming future whether it is resolved or not.
+Promises are used to manage asynchronous operations.
 
 ## 11.
 
