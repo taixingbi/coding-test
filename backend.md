@@ -32,7 +32,9 @@ There are plenty of pros that are offered by Microservices architecture. Here ar
 3. Provides support to big enterprises as well as small teams.
 4. Can be deployed independently and in relatively less time.
 
-## 9
+## 9 Load balancing
+Load balancing is defined as the methodical and efficient distribution of network or application traffic across multiple servers in a server farm. Each load balancer sits between client devices and backend servers, receiving and then distributing incoming requests to any available server capable of fulfilling them.
+https://www.citrix.com/solutions/app-delivery-and-security/load-balancing/what-is-load-balancing.html#:~:text=Load%20balancing%20is%20defined%20as,server%20capable%20of%20fulfilling%20them.
 
 ## 10
 
