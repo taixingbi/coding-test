@@ -3,7 +3,9 @@ REST stands for REpresentational State Transfer. REST is web standards based arc
 
 In REST architecture, a REST Server simply provides access to resources and REST client accesses and presents the resources. Here each resource is identified by URIs/ global IDs. REST uses various representations to represent a resource like text, JSON and XML. Now a days JSON is the most popular format being used in web services.
 
-## 2 What are NoSQL databases?
+## 2 SQL vs NoSQL databases?
+SQL databases store data in form of tables, rows, columns and records. This data is stored in a pre-defined data model which is not very much flexible for today's real-world highly growing applications
+
 A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases (like SQL, Oracle, etc.).   
 Types of NoSQL databases:   
 . Document Oriented     
