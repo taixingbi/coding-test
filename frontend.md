@@ -33,8 +33,12 @@ Responsive Web Design : It built on a fluid grid that will change with the brows
 
 Adaptive Web Design : It not necessarily set on a fluid grid; targets specific device resolutions like (320, 768, 1024 etc); can have set relative widths with (%) and controlled by media query.
 
-## 9.
+## 9. What is event bubbling and event capturing in javascript?
+. Event Bubbling
+In an event, bubbling handlers are called when one element is nested into a second element, and both the elements have a listener for the same event. E.g. A click. Nowadays all modern browsers have event bubbling by default.
 
+. Event Capturing
+Event capturing starts from the top element to the target element. Modern browsers don't support this event but we can achieve that with the help of code.
 ## 10.
 
 ## 11.
