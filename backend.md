@@ -6,8 +6,8 @@ In REST architecture, a REST Server simply provides access to resources and REST
 ## 2 What are NoSQL databases?
 A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases (like SQL, Oracle, etc.).   
 Types of NoSQL databases:   
-. Document Oriented    
-. Key Value    
-. Graph 
-. Column Oriented 
+. Document Oriented     
+. Key Value      
+. Graph    
+. Column Oriented   
 
