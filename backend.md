@@ -25,7 +25,12 @@ Continuous Integration (CI) is a development practice that requires developers t
 Easy to deploy and integrate, just like web applications.
 4. Multiple service versions can be running at same time.
 
-## 8
+## 8  Why Would You Opt For Microservices Architecture?
+There are plenty of pros that are offered by Microservices architecture. Here are a few of them:
+1. Microservices can adapt easily to other frameworks or technologies.
+2. Failure of a single process does not affect the entire system.
+3. Provides support to big enterprises as well as small teams.
+4. Can be deployed independently and in relatively less time.
 
 ## 9
 
