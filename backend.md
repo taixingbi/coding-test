@@ -19,11 +19,12 @@ At the present time, the internet is loaded with big data, big users, big comple
 Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
 
 ## 7 What are the advantages of Web Services
-. Interoperability: Web services are accessible over network and runs on HTTP/SOAP protocol and uses XML/JSON to transport data, hence it can be developed in any programming language. Web service can be written in java programming and client can be PHP and vice versa.
-. Reusability: One web service can be used by many client applications at the same time.
-. Loose Coupling: Web services client code is totally independent with server code, so we have achieved loose coupling in our application.
+1. Interoperability: Web services are accessible over network and runs on HTTP/SOAP protocol and uses XML/JSON to transport data, hence it can be developed in any programming language. Web service can be written in java programming and client can be PHP and vice versa.
+2. Reusability: One web service can be used by many client applications at the same time.
+3. Loose Coupling: Web services client code is totally independent with server code, so we have achieved loose coupling in our application.
 Easy to deploy and integrate, just like web applications.
-. Multiple service versions can be running at same time.
+4. Multiple service versions can be running at same time.
+
 ## 8
 
 ## 9
