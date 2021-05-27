@@ -41,5 +41,9 @@ https://www.citrix.com/solutions/app-delivery-and-security/load-balancing/what-i
 2. Continuous delivery is an extension of continuous integration to make sure that you can release new changes to your customers quickly in a sustainable way. This means that on top of having automated your testing, you also have automated your release process and you can deploy your application at any point of time by clicking on a button.
 3. Continuous deployment goes one step further than continuous delivery. With this practice, every change that passes all stages of your production pipeline is released to your customers. There's no human intervention, and only a failed test will prevent a new change to be deployed to production.
 
+## What is the difference between Monolithic, SOA and Microservices Architecture?
+1. Monolithic Architecture is similar to a big container wherein all the software components of an application are assembled together and tightly packaged.
+2. A Service-Oriented Architecture is a collection of services which communicate with each other. The communication can involve either simple data passing or it could involve two or more services coordinating some activity.
+3. Microservice Architecture is an architectural style that structures an application as a collection of small autonomous services, modeled around a business domain.
 
 
