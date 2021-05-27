@@ -45,5 +45,11 @@ https://www.citrix.com/solutions/app-delivery-and-security/load-balancing/what-i
 1. Monolithic Architecture is similar to a big container wherein all the software components of an application are assembled together and tightly packaged.
 2. A Service-Oriented Architecture is a collection of services which communicate with each other. The communication can involve either simple data passing or it could involve two or more services coordinating some activity.
 3. Microservice Architecture is an architectural style that structures an application as a collection of small autonomous services, modeled around a business domain.
+benifit
+. Technology diversity, e., Microservices can mix easily with other frameworks, libraries,  and databases     
+. Fault isolation, e., a process failure should not bring the whole system down.        
+. Greater support for smaller and parallel team       
+. Independent deployment      
+. Deployment time reduce        
 
 
