@@ -36,6 +36,29 @@ writing an event handler for every state update | use a ref to get form values f
 
 
 #### 10. What are the different lifecycle methods in React?
-Each component in react goes through three phases: Mounting, Updating, and Unmounting.
+* Mounting
+  constructor()  : Initial state or pros 
+      |
+      V
+getDerivedStateFromProps()  :  compontWillMount()
+      |
+      V
+   render()
+      |
+      V
+   componentDidMount()  :  good place to load data from a remote endpoint 
+      
+      
+- This is called before anything else. We can set the initial state of the component inside this method. The constructor method is used to set the initial state and bind methods to the component.
+getDerivedStateFromProps( ) - This is called before rendering the elements in the DOM.
+In this method, we can set the state of the component based on the props we received. This method is used very rarely.
+render( ) - This is the only required method in the class component. This method returns the HTML elements which are going to be rendered inside the DOM.
+componentDidMount() - It is called right after the component is rendered inside the DOM. All the statements which require the DOM nodes can be executed in this method. Network requests from a remote end-point can also be instantiated in this method.
+
+
+
+* Updating
+
+* Unmounting
 
 
