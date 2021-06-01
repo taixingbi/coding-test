@@ -2,7 +2,7 @@
 MVC is generally abbreviated as Model View Controller.
 
 #### 2. **Use of Virtual DOM to improve efficiency**       
-React uses virtual DOM to render the view. As the name suggests, virtual DOM is a virtual representation of the real DOM. Each time the data changes in a react app, a new virtual DOM gets created. Creating a virtual DOM is much faster than rendering the UI inside the browser. Therefore, with the use of virtual DOM, the efficiency of the app improves.
+React uses virtual DOM to render the view. As the name suggests, virtual DOM is a **virtual representation of the real DOM**. Each time the data changes in a react app, a new virtual DOM gets created. Creating a virtual DOM is much faster than rendering the UI inside the browser. Therefore, with the use of virtual DOM, the efficiency of the app improves.
 
 #### 3. **Gentle learning curve**       
 React has a gentle learning curve when compared to frameworks like Angular. Anyone with little knowledge of javascript can start building web applications using React.
