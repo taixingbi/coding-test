@@ -31,7 +31,7 @@ As stated by the react team, virtual DOM is a concept where a **virtual represen
 #### 10. What are the different lifecycle methods in React?
 Uncontrolled Components | controlled Components
 ------------ | -------------
-form data is handled by a React component | orm data is handled by the DOM itself
+form data is handled by a React component | form data is handled by the DOM itself
 
 
 #### 10. What are the different lifecycle methods in React?
