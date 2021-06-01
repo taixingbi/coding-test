@@ -43,7 +43,15 @@ Event capturing starts from the top element to the target element. Modern browse
 A promise means to the object which is responsible for producing a single value as the result in the upcoming future whether it is resolved or not.
 Promises are used to manage asynchronous operations.
 
-## 11.
+## 11. TypeScript
+
+TypeScript | JavaScript
+------------ | -------------
+TypeScript is an Object-Oriented language | JavaScript is a Scripting language
+TypeScript gives support for modules | JavaScript does not support modules
+It supports optional parameter function | It does not support optional parameter function
+
+
 
 ## 12.
 
