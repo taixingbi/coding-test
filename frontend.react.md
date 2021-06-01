@@ -11,6 +11,7 @@ React has a gentle learning curve when compared to frameworks like Angular. Anyo
 React allows developers to develop engaging user interfaces that can be easily navigated in various search engines. It also allows server-side rendering, which boosts the SEO of an app.
 
 4. **Reusable components**     
-React uses **component-based architecture** for developing applications. Components are independent and reusable bits of code. These components can be shared across various applications having similar functionality. The re-use of components increases the pace of development.
-Huge ecosystem of libraries to choose from
+React uses **component-based architecture** for developing applications. **Components are independent** and reusable bits of code. These components can be 
+**shared** across various applications having similar functionality. The re-use of components increases the pace of development.    
+5. Huge ecosystem of libraries to choose from
 React provides you the freedom to choose the tools, libraries, and architecture for developing an application based on your requirement
