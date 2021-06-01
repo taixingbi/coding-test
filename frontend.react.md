@@ -39,6 +39,8 @@ getDerivedStateFromProps()
  
 ##### 3. Unmounting
 
+componentWillUnmount( ) -  just before the component gets destroyed.
+
 
 
 #### 1. What are the advantages of using React?
