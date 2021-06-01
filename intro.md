@@ -19,8 +19,17 @@ For the backend language, I use python/Java, For the framework,  I use Django/Fl
  In the machine learning task: I work on depresion detection through patient audio, emotional detection through video. sentiment analysis through transcription. 
  
  ###### AWS
- s3 Lambda ec2 
-
+ ```
+ ec2
+ Amazon s3
+ AWS Lambda  
+ AWS redshift for data warehouse
+ AWS kakfa server 
+ AWS SageMaker for ML env
+ AWS Recolonization
+ AWS transcribes
+ 
+```
  ##### frontend
  For Frontend, I use javascript, the framework is React/Redux.    
  collect training data
