@@ -29,7 +29,7 @@ It allows us to **write HTML inside JavaScript and place them in the DOM** witho
 As stated by the react team, virtual DOM is a concept where a **virtual representation of the real DOM** is kept inside the memory and is synced with the real DOM by a library such as ReactDOM.
 
 #### 10. What are the different lifecycle methods in React?
-Uncontrolled Components | controlled Components
+uncontrolled Components | controlled Components
 ------------ | -------------
 form data is handled by a React component | form data is handled by the DOM itself
 writing an event handler for every state update | use a ref to get form values from the DOM
