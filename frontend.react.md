@@ -25,4 +25,6 @@ It allows us to **write HTML inside JavaScript and place them in the DOM** witho
 * Before the introduction of Hooks in React, functional components were called **stateless** components and were behind class components on feature basis. 
 * After the introduction of Hooks, functional components are equivalent to class components.
 
+#### 9 What is the virtual DOM? How does react use the virtual DOM to render the UI?
+As stated by the react team, virtual DOM is a concept where a **virtual representation of the real DOM** is kept inside the memory and is synced with the real DOM by a library such as ReactDOM.
 
