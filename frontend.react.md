@@ -28,7 +28,13 @@ It allows us to **write HTML inside JavaScript and place them in the DOM** witho
 #### 9 What is the virtual DOM? How does react use the virtual DOM to render the UI?
 As stated by the react team, virtual DOM is a concept where a **virtual representation of the real DOM** is kept inside the memory and is synced with the real DOM by a library such as ReactDOM.
 
-#### 10 6. What are the different lifecycle methods in React?
+#### 10. What are the different lifecycle methods in React?
+Uncontrolled Components | controlled Components
+------------ | -------------
+form data is handled by a React component | orm data is handled by the DOM itself
+
+
+#### 10. What are the different lifecycle methods in React?
 Each component in react goes through three phases: Mounting, Updating, and Unmounting.
 
 
