@@ -16,3 +16,7 @@ React uses **component-based architecture** for developing applications. **Compo
 
 5. **Huge ecosystem of libraries**
 React provides you the **freedom to choose the tools, libraries, and architecture** for developing an application based on your requirement
+
+6. What is JSX?
+JSX stands for JavaScript XML.
+It allows us to **write HTML inside JavaScript and place them in the DOM** without using functions like appendChild( ) or createElement( ).
