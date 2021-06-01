@@ -47,9 +47,9 @@ Promises are used to manage asynchronous operations.
 
 TypeScript | JavaScript
 ------------ | -------------
-TypeScript is an Object-Oriented language | JavaScript is a Scripting language
-TypeScript gives support for modules | JavaScript does not support modules
-It supports optional parameter function | It does not support optional parameter function
+TypeScript is an **Object-Oriented ** language | JavaScript is a  **Scripting** language
+TypeScript gives  **support for modules** | JavaScript does  **not** support modules
+It supports  **optional parameter function ** | It does not support optional parameter function
 
 
 
