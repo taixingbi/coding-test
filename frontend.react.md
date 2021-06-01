@@ -22,7 +22,7 @@ JSX stands for JavaScript XML.
 It allows us to **write HTML inside JavaScript and place them in the DOM** without using functions like appendChild( ) or createElement( ).
 
 7. What are the differences between functional and class components?
-* Before the introduction of Hooks in React, functional components were called stateless components and were behind class components on feature basis. 
+* Before the introduction of Hooks in React, functional components were called **stateless** components and were behind class components on feature basis. 
 * After the introduction of Hooks, functional components are equivalent to class components.
 
 
