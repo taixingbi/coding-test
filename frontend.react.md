@@ -1,3 +1,43 @@
+#### 0. What are the different lifecycle methods in React?
+* Mounting
+  constructor()  : Initial state or pros 
+      |
+      V
+getDerivedStateFromProps()  :   set the state of the component based on the props we received 
+      |
+      V
+ compontWillMount() : invoked immediately before a component is unmounted and destroyed
+      |
+      V
+   render()
+      |
+      V
+ componentDidMount()  :  
+ 1. good place to load data from a remote endpoint. 
+ 2. good place to set up any subscriptions. Butdon’t forget to unsubscribe in componentWillUnmount().
+      
+
+* Updating
+  constructor() 
+      |
+      V
+getDerivedStateFromProps()    
+      |
+      V
+ shouldComponentUpdate()  :   invoked before rendering when new props or state are being received
+      |
+      V
+ compontWillMount() 
+      |
+      V
+   render()
+      |
+      V
+ componentDidMount()  : 
+ 
+* Unmounting
+
+
 #### 1. What are the advantages of using React?
 MVC is generally abbreviated as Model View Controller.
 
@@ -35,30 +75,6 @@ form data is handled by a **React component** | form data is handled by the **DO
 writing an event handler for every state update | use a ref to get form values from the DOM
 
 
-#### 10. What are the different lifecycle methods in React?
-* Mounting
-  constructor()  : Initial state or pros 
-      |
-      V
-getDerivedStateFromProps()  :  compontWillMount()
-      |
-      V
-   render()
-      |
-      V
-   componentDidMount()  :  good place to load data from a remote endpoint 
-      
-      
-- This is called before anything else. We can set the initial state of the component inside this method. The constructor method is used to set the initial state and bind methods to the component.
-getDerivedStateFromProps( ) - This is called before rendering the elements in the DOM.
-In this method, we can set the state of the component based on the props we received. This method is used very rarely.
-render( ) - This is the only required method in the class component. This method returns the HTML elements which are going to be rendered inside the DOM.
-componentDidMount() - It is called right after the component is rendered inside the DOM. All the statements which require the DOM nodes can be executed in this method. Network requests from a remote end-point can also be instantiated in this method.
 
-
-
-* Updating
-
-* Unmounting
 
 
