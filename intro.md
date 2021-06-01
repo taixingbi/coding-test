@@ -22,12 +22,12 @@ For the backend language, I use python/Java, For the framework,  I use Django/Fl
  
  * ec2
  * Amazon s3
- AWS Lambda  
- AWS redshift for data warehouse
- AWS kakfa server 
- AWS SageMaker for ML env
- AWS Recolonization
- AWS transcribes
+ * AWS Lambda  
+ * AWS redshift for data warehouse
+ * AWS kakfa server 
+ * AWS SageMaker for ML env
+ * AWS Recolonization
+ * AWS transcribes
  
 
  ##### frontend
