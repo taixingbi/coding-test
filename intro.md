@@ -20,8 +20,8 @@ For the backend language, I use python/Java, For the framework,  I use Django/Fl
  
  ###### AWS
  
- . ec2
- . Amazon s3
+ * ec2
+ * Amazon s3
  AWS Lambda  
  AWS redshift for data warehouse
  AWS kakfa server 
