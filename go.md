@@ -6,3 +6,6 @@ Because Go is an **open source** programming language so, it is very easy to bui
 
 #### 3. What are packages in Go program?
 Go programs are **made up of packages**. The program starts running in package main. This program is using the packages with import paths "fmt" and "math/rand".
+
+#### Does Go support generic programming?
+Go programming language **doesn't** provide support for generic programming.
