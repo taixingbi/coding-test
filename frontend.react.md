@@ -1,5 +1,6 @@
 #### 1. What are the different lifecycle methods in React?
 ##### 1. Mounting
+```
   constructor()  : Initial state or pros 
       |
       V
@@ -15,8 +16,9 @@ getDerivedStateFromProps()  :   set the state of the component based on the prop
  componentDidMount()  :  
  1. good place to load data from a remote endpoint. 
  2. good place to set up any subscriptions. Butdon’t forget to unsubscribe in componentWillUnmount().
-      
+ ```  
 ##### 2. Updating
+```
   constructor() 
       |
       V
@@ -32,7 +34,8 @@ getDerivedStateFromProps()
    render()
       |
       V
- componentDidMount()  : 
+ componentDidMount()  
+ ```
  
 ##### 3. Unmounting
 
