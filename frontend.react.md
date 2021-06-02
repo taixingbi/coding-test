@@ -41,6 +41,16 @@ getDerivedStateFromProps()
 
 componentWillUnmount( ) -  just before the component gets destroyed.
 
+#### 2 Explain React state and props.
+Props|State
+------------ | -------------
+Immutable|Owned by its component
+Has better performance	| Locally scoped
+Can be passed to child components	| Mutable
+|has setState() method to modify properties
+|Changes to state can be asynchronous
+|can only be passed as props
+
 
 
 #### 1. What are the advantages of using React?
