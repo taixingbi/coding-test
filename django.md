@@ -5,7 +5,7 @@ Django follows the MVT (**Model View Template**) pattern which is based on the M
 A model in Django refers to a class that maps to a **database table** or database collection. Each attribute of the Django model class represents a **database field**
 
 #####  View  
-is **user interface** — what you see in your browser when you visit a website. These are represented by HTML/CSS/Javascript files.
+They generally comprise HTML, CSS, and js in which dynamic variables and information are embedded with the help of views
 
-#####  Controller  
-is the middle man that connects the view and model together, meaning that it is the one passing data from the model to the view.
+#####  Template  
+web request and returns a web response
