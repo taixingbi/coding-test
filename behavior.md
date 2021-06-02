@@ -1,5 +1,5 @@
 #### 1 why leave current company?
-* working env
+There is a huge change in company board. My previous boss left team earlier. They have a rearrangement of product line.
 
 #### 2 Tell me about the most challenging engineering project that you have been involved with during the past year.
 recommender system     
