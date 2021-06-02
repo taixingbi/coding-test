@@ -29,6 +29,6 @@ A merge conflict is an event that takes place when Git is unable to **resolve di
 | The fork is the process when a copy of the repository is made. It's usually experimentation in the project without affecting the original project. They’re used to **advise changes or take inspiration from someone else’s project**. | Git branches refer to **individual projects within a git repository**. If there are several branches in a repository, then each branch can have entirely different files and folders. | Git clone refers to creating a clone or a **copy of an existing git** repository in a new directory. Cloning automatically creates a connection that points back to the original repository, which makes it very easy to interact with the central repository. |
 
 #### 8.  What is the difference between git merge and git rebase?
-rebase will perform an automatic git **switch** <branch> before doing anything else
-
+Incorporates all the new commits in the master branch
+Rewrites the project history by **creating brand new commits for each commit in the original branch**
 
