@@ -7,7 +7,9 @@
 The ROC curve is a graphical representation of the contrast between true positive rates and the false positive rate at various thresholds.
 
 #### 3. Define precision and recall.
-##### Recall is also known as the true positive rate: the amount of positives your model claims compared to the actual number of positives there are throughout the data.     
-##### Precision is also known as the positive predictive value
+##### Recall 
+true positive rate: the amount of positives your model claims compared to the actual number of positives there are throughout the data.     
+##### Precision
+positive predictive value: measure of the amount of accurate positives your model claims compared to the number of positives
 
 
