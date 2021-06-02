@@ -9,3 +9,7 @@ They generally comprise HTML, CSS, and js in which dynamic variables and informa
 
 #####  Template  
 web request and returns a web response
+
+#### 2. What is Django ORM?
+This ORM (an acronym for Object Relational Mapper) enables us to interact with databases in a more pythonic way like we can avoid writing raw queries
+
