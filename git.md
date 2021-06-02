@@ -20,4 +20,8 @@ The Git push command is used to **push the content in a local repository to a re
 | It does not integrate any of these new data into your working files | Downloads new data and integrate it with the current working files. |
 | Can be done any time to update the remote-tracking branches | Tries to merge remote changes with your local ones |
 
+#### 6. What is a merge conflict in Git?
+A merge conflict is an event that takes place when Git is unable to **resolve differences in code between the two commits automatically**. 
+
+
 
