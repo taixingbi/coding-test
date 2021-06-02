@@ -47,9 +47,9 @@ Props|State
 Immutable|Owned by its component
 Has better performance	| Locally scoped
 Can be passed to child components	| Mutable
-|has setState() method to modify properties
-|Changes to state can be asynchronous
-|can only be passed as props
+-|has setState() method to modify properties
+-|Changes to state can be asynchronous
+-|can only be passed as props
 
 
 
