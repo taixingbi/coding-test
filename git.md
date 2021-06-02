@@ -13,4 +13,11 @@ A version control system (VCS) is a system that **records all changes made to a 
 #### 4. Explain the git push command.
 The Git push command is used to **push the content in a local repository to a remote repository**. After a local repository has been modified, a push is executed to share the modifications with remote team members.
 
+#### 5. Difference between git fetch and git pull.
+| Git fetch | Git pull |
+| ------------- | ------------- |
+| Git fetches only downloads new data from a remote repository | Git pull updates the **current HEAD branch with the latest changes** from the remote server |
+| It does not integrate any of these new data into your working files | Downloads new data and integrate it with the current working files. |
+| Can be done any time to update the remote-tracking branches | Tries to merge remote changes with your local ones |
+
 
