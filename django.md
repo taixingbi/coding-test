@@ -14,7 +14,7 @@ web request and returns a web response
 This ORM (an acronym for Object Relational Mapper) enables us to **interact with databases** in a more pythonic way like we can **avoid writing raw queries**
 
 #### 3. Explain user authentication in Django?
-Django comes with a built-in user authentication system, which handles objects like users, groups, user-permissions, and few cookie-based user sessions. Django User authentication not only authenticates the user but also authorizes him.
+Django comes with a built-in user authentication system, which handles objects like **users, groups, user-permissions, and few cookie-based user sessions**. Django User authentication not only authenticates the user but also authorizes him.
 
 The system consists and operates on these objects:
 
