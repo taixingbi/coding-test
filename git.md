@@ -32,3 +32,7 @@ A merge conflict is an event that takes place when Git is unable to **resolve di
 Incorporates all the new commits in the master branch
 Rewrites the project history by **creating brand new commits for each commit in the original branch**
 
+#### 9. What is git stash drop?
+The Git stash drop command is used to **remove a particular stash**. If there’s a stash you're no longer using or you want to remove a specific item of stash from the list, you can use the stash commands.
+
+
