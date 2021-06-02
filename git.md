@@ -10,3 +10,7 @@ A version control system (VCS) is a system that **records all changes made to a 
 | version control system for tracking changes in computer files. The main point of Git is to manage projects, or a set of them when changes are made over time. It helps to track progress over time and coordinate work among several people on a project.  |  provides a web-based graphical interface. GitHub helps every team member to work together on the project from anywhere, making collaboration easy.  |
 
 
+#### 4. Explain the git push command.
+The Git push command is used to **push the content in a local repository to a remote repository**. After a local repository has been modified, a push is executed to share the modifications with remote team members.
+
+
