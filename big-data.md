@@ -29,6 +29,8 @@ When “Big Data” emerged as a problem, Apache Hadoop evolved as a solution to
    * **ResourceManager**: It receives the **processing requests**, and then passes the parts of requests to corresponding **NodeManagers** accordingly, where the actual processing takes place. It allocates resources to applications based on the needs.  
    * **NodeManager**: NodeManager is installed on **every DataNode** and it is responsible for the **execution** of the task on every single DataNode.
 
+5. How is HDFS fault tolerant? 
+When data is stored over HDFS, **NameNode replicates the data to several DataNode**. The **default replication factor** is **3**. You can change the configuration factor as per your need. If a DataNode goes down, the NameNode will automatically copy the data to another node from the replicas and make the data available. This provides fault tolerance in HDFS.
 ### Spark
 
 ### Kafka
