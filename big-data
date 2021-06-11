@@ -1,5 +1,14 @@
 ### Hadoop
 
+1. What are the basic differences between relational database and HDFS?
+
+|| RDBMS  | Hadoop |
+| ------------- | ------------- |
+| Data Types	  | Content Cell  |
+| Processing  | Content Cell  |
+| Schema on Read Vs. Write  | Content Cell  |
+
+
 ### Spark
 
 ### Kafka
