@@ -3,10 +3,10 @@
 1. What are the basic differences between relational database and HDFS?
 
 || RDBMS  | Hadoop |
-| ------------- | ------------- |
-| Data Types	  | Content Cell  |
-| Processing  | Content Cell  |
-| Schema on Read Vs. Write  | Content Cell  |
+|-------------| ------------- | ------------- |
+| Data Types	  | Content Cell  | Any kind of data can be stored into Hadoop i.e. Be it structured, unstructured or semi-structured.|
+| Processing  | Content Cell  | |
+| Schema on Read Vs. Write  | Content Cell  | |
 
 
 ### Spark
