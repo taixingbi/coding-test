@@ -15,6 +15,9 @@ Velocity: Velocity refers to the rate at which data is growing, which is very fa
 * **Veracity**: Veracity refers to the data in doubt or uncertainty of data available due to data inconsistency and incompleteness. Data available can sometimes get messy and may be difficult to trust. With many forms of big data, quality and accuracy are difficult to control. The volume is often the reason behind for the lack of quality and accuracy in the data.
 * **Value**: It is all well and good to have access to big data but unless we can turn it into a value it is useless. By turning it into value I mean, Is it adding to the benefits of the organizations? Is the organization working on Big Data achieving high ROI (Return On Investment)? Unless, it adds to their profits by working on Big Data, it is useless.
 
+3. What is Hadoop and its components. 
+When “Big Data” emerged as a problem, Apache Hadoop evolved as a solution to it. Apache Hadoop is a **framework** which provides us various services or tools to **store and process Big Data**. It helps in analyzing Big Data and making business decisions out of it, which can’t be done efficiently and effectively using traditional systems.
+
 ### Spark
 
 ### Kafka
