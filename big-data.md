@@ -55,3 +55,24 @@ Referred as the core of Hadoop, MapReduce is a programming framework to process 
 
 ### Kafka
 
+1.  Mention what is the traditional method of message transfer?
+The traditional method of message transfer includes two methods
+* **Queuing**: In a queuing, a pool of consumers may read message from the server and each message goes to one of them
+* **Publish**-Subscribe: In this model, messages are broadcasted to all consumers
+Kafka caters single consumer abstraction that generalized both of the above- the consumer group.
+
+3) Mention what is the benefits of Apache Kafka over the traditional technique?
+
+Apache Kafka has following benefits above traditional messaging technique
+
+* Fast: A single Kafka broker can serve thousands of clients by handling megabytes of reads and writes per second
+* Scalable: Data are partitioned and streamlined over a cluster of machines to enable larger data
+* Durable: Messages are persistent and is replicated within the cluster to prevent data loss
+* Distributed by Design: It provides fault tolerance guarantees and durability
+
+
+
+4) Mention what is the meaning of broker in Kafka?
+
+In Kafka cluster, broker term is used to refer Server.
+
