@@ -26,8 +26,8 @@ When “Big Data” emerged as a problem, Apache Hadoop evolved as a solution to
 **YARN** (Yet Another Resource Negotiator) is the processing framework in Hadoop, which manages resources and provides an execution environment to the processes.
 
 *  **YARN**.   
-   * **ResourceManager**: It receives the processing requests, and then passes the parts of requests to corresponding **NodeManagers** accordingly, where the actual processing takes place. It allocates resources to applications based on the needs.  
-   * **NodeManager**: NodeManager is installed on **every DataNode** and it is responsible for the execution of the task on every single DataNode.
+   * **ResourceManager**: It receives the **processing requests**, and then passes the parts of requests to corresponding **NodeManagers** accordingly, where the actual processing takes place. It allocates resources to applications based on the needs.  
+   * **NodeManager**: NodeManager is installed on **every DataNode** and it is responsible for the **execution** of the task on every single DataNode.
 
 ### Spark
 
