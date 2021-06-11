@@ -32,6 +32,15 @@ When “Big Data” emerged as a problem, Apache Hadoop evolved as a solution to
 5. How is HDFS fault tolerant? 
 When data is stored over HDFS, **NameNode replicates the data to several DataNode**. The **default replication factor** is **3**. You can change the configuration factor as per your need. If a DataNode goes down, the NameNode will automatically copy the data to another node from the replicas and make the data available. This provides fault tolerance in HDFS.
 ### Spark
+1. How is Apache Spark different from MapReduce?
+| Apache Spark  | MapReduce |
+| ------------- | ------------- |
+| RDBMS  | Hadoop |
+| RDBMS  | Hadoop |
+| RDBMS  | Hadoop |
+
+
+
 
 ### Kafka
 
