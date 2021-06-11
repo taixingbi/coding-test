@@ -3,16 +3,11 @@
 1. What are the basic differences between relational database and HDFS?
 
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
 
 || RDBMS  | Hadoop |
 |-------------| ------------- | ------------- |
-| Data Types	  | Content Cell  | Any kind of data can be stored into Hadoop i.e. Be it structured, unstructured or semi-structured.|
-| Processing  | Content Cell  | |
+| Data Types	  | RDBMS relies on the structured data and the schema of the data is always known.  | Any kind of data can be stored into Hadoop i.e. Be it structured, unstructured or semi-structured.|
+| Processing  | RDBMS provides limited or no processing capabilities.  | Hadoop allows us to process the data which is distributed across the cluster in a parallel fashion.|
 | Schema on Read Vs. Write  | Content Cell  | |
 
 
