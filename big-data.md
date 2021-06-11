@@ -18,8 +18,8 @@ Velocity: Velocity refers to the rate at which data is growing, which is very fa
 3. What is Hadoop and its components. 
 When “Big Data” emerged as a problem, Apache Hadoop evolved as a solution to it. Apache Hadoop is a **framework** which provides us various services or tools to **store and process Big Data**. It helps in analyzing Big Data and making business decisions out of it, which can’t be done efficiently and effectively using traditional systems.
 
-**Storage unit– HDFS** (NameNode, DataNode).         
-**Processing framework– YARN** (ResourceManager, NodeManager)
+Storage unit– **HDFS** (NameNode, DataNode).         
+Processing framework– **YARN** (ResourceManager, NodeManager)
 
 ### Spark
 
