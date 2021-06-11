@@ -34,10 +34,8 @@ When data is stored over HDFS, **NameNode replicates the data to several DataNod
 
 6 What is MapReduce?
 Referred as the core of Hadoop, MapReduce is a programming framework to process large sets of data or **big data across thousands of servers in a Hadoop Cluster**. The concept of MapReduce is similar to the cluster scale-out data processing systems. The term MapReduce refers to two important processes of Hadoop program operates.
-* Application Manager:   
-* It accepts job-submissions, negotiates the container for ApplicationMaster and handles failures while executing MapReduce jobs.
-* Scheduler:     
-Scheduler allocates resources that is required by various MapReduce application running on the Hadoop cluster.
+* **Application Manager**: It accepts job-submissions, negotiates the container for ApplicationMaster and handles failures while executing MapReduce jobs.
+* **Scheduler**: Scheduler allocates resources that is required by various MapReduce application running on the Hadoop cluster.
 
 ### Spark
 1. How is Apache Spark different from MapReduce?     
