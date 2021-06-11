@@ -31,6 +31,14 @@ When “Big Data” emerged as a problem, Apache Hadoop evolved as a solution to
 
 5. How is HDFS fault tolerant? 
 When data is stored over HDFS, **NameNode replicates the data to several DataNode**. The **default replication factor** is **3**. You can change the configuration factor as per your need. If a DataNode goes down, the NameNode will automatically copy the data to another node from the replicas and make the data available. This provides fault tolerance in HDFS.
+
+6 What is MapReduce?
+Referred as the core of Hadoop, MapReduce is a programming framework to process large sets of data or **big data across thousands of servers in a Hadoop Cluster**. The concept of MapReduce is similar to the cluster scale-out data processing systems. The term MapReduce refers to two important processes of Hadoop program operates.
+* Application Manager:   
+* It accepts job-submissions, negotiates the container for ApplicationMaster and handles failures while executing MapReduce jobs.
+* Scheduler:     
+Scheduler allocates resources that is required by various MapReduce application running on the Hadoop cluster.
+
 ### Spark
 1. How is Apache Spark different from MapReduce?     
 
