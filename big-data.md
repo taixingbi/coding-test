@@ -32,11 +32,17 @@ When “Big Data” emerged as a problem, Apache Hadoop evolved as a solution to
 5. How is HDFS fault tolerant? 
 When data is stored over HDFS, **NameNode replicates the data to several DataNode**. The **default replication factor** is **3**. You can change the configuration factor as per your need. If a DataNode goes down, the NameNode will automatically copy the data to another node from the replicas and make the data available. This provides fault tolerance in HDFS.
 ### Spark
-1. How is Apache Spark different from MapReduce?
+1. How is Apache Spark different from MapReduce?     
+
 | Apache Spark  | MapReduce |
 | ------------- | ------------- |
 | Spark processes data in **batches** as well as in **real-time**  | MapReduce processes data in **batches** only  |
-| Content Cell  | Content Cell  |
+| Spark runs almost **100 times faster** than Hadoop MapReduce | Hadoop MapReduce is **slower** when it comes to large scale data processing |
+| Spark stores data in the **RAM** i.e. in-memory. So, it is easier to retrieve it | Hadoop MapReduce data is stored in **HDFS** and hence takes a long time to retrieve the data |
+| Spark provides **caching and in-memory data storage** | Hadoop is highly **disk-dependent** |
+
+
+
 
 
 
