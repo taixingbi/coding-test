@@ -35,7 +35,7 @@ When data is stored over HDFS, **NameNode replicates the data to several DataNod
 1. How is Apache Spark different from MapReduce?
 | Apache Spark  | MapReduce |
 | ------------- | ------------- |
-| Spark processes data in batches as well as in real-time  | MapReduce processes data in batches only  |
+| Spark processes data in **batches** as well as in **real-time**  | MapReduce processes data in **batches** only  |
 | Content Cell  | Content Cell  |
 
 
