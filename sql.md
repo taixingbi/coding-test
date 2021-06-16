@@ -15,5 +15,9 @@ Constraints are used to specify the rules concerning data in the table. It can b
 #### 3. What is a Primary Key?
 The PRIMARY KEY constraint uniquely identifies each row in a table. It must contain UNIQUE values and has an implicit NOT NULL constraint
 
+#### 4. What is a UNIQUE constraint?
+A UNIQUE constraint ensures that all values in a column are different. This provides uniqueness for the column(s) and helps identify each row uniquely. Unlike primary key, there can be multiple unique constraints defined per table. The code syntax for UNIQUE is quite similar to that of PRIMARY KEY and can be used interchangeably.
+
+
 
 
