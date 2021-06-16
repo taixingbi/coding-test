@@ -22,6 +22,11 @@ The PRIMARY KEY constraint uniquely identifies each row in a table. It must cont
 * **RIGHT (OUTER) JOIN**: Retrieves all the records/rows from the **right and the matched records/rows from the left table**.
 * **FULL (OUTER) JOIN**: Retrieves all the records where there is a **match in either the left or right table**.
 
+#### 4. List the different types of relationships in SQL.
+One-to-One - This can be defined as the relationship **between two tables** where each record in one table is associated with the **maximum of one record** in the other table.
+One-to-Many & Many-to-One - This is the most commonly used relationship where **a record in a table is associated with multiple records** in the other table.
+Many-to-Many - This is used in cases when multiple instances on **both sides are needed for defining a relationship**.
+Self Referencing Relationships - This is used when a table needs to define a relationship with itself.
 
 
 
