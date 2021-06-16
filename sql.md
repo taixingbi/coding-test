@@ -20,6 +20,8 @@ The PRIMARY KEY constraint uniquely identifies each row in a table. It must cont
 * **(INNER) JOIN**: Retrieves records that have matching values in **both tables involved in the join**. This is the widely used join for queries.
 * **LEFT (OUTER) JOIN** Retrieves all the records/rows from the **left and the matched records/rows from the right table**.
 * **RIGHT (OUTER) JOIN**: Retrieves all the records/rows from the **right and the matched records/rows from the left table**.
+* **FULL (OUTER) JOIN**: Retrieves all the records where there is a **match in either the left or right table**.
+
 
 
 
