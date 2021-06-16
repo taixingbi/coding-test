@@ -17,8 +17,8 @@ The PRIMARY KEY constraint uniquely identifies each row in a table. It must cont
 * **FOREIGN KEY**  - Ensures referential integrity for a record in another table.
 
 #### 3. What is a Join? List its different types.
-* **(INNER) JOIN**: Retrieves records that have matching values in both tables involved in the join. This is the widely used join for queries.
-* **LEFT (OUTER) JOIN** Retrieves all the records/rows from the left and the matched records/rows from the right table.
+* **(INNER) JOIN**: Retrieves records that have matching values in **both tables involved in the join**. This is the widely used join for queries.
+* **LEFT (OUTER) JOIN** Retrieves all the records/rows from the **left and the matched records/rows from the right table**.
 
 
 
