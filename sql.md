@@ -12,5 +12,8 @@ Constraints are used to specify the rules concerning data in the table. It can b
 * **PRIMARY KEY**  - Uniquely identifies each record in a table.
 * **FOREIGN KEY**  - Ensures referential integrity for a record in another table.
 
+#### 3. What is a Primary Key?
+The PRIMARY KEY constraint uniquely identifies each row in a table. It must contain UNIQUE values and has an implicit NOT NULL constraint
+
 
 
