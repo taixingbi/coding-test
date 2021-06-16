@@ -8,15 +8,15 @@ Constraints are used to specify the rules concerning data in the table. It can b
 * **CHECK** - Verifies that all values in a field satisfy a condition.
 * **DEFAULT** - Automatically assigns a default value if no value has been specified for the field.
 * **UNIQUE** - Ensures unique values to be inserted into the field.
+A UNIQUE constraint ensures that all values in a column are different. This provides uniqueness for the column(s) and helps identify each row uniquely. Unlike primary key, there can be **multiple unique constraints** defined per table. The code syntax for UNIQUE is quite similar to that of PRIMARY KEY and can be used interchangeably.
+
 * **INDEX** - Indexes a field providing faster retrieval of records.
 * **PRIMARY KEY**  - Uniquely identifies each record in a table.
-* **FOREIGN KEY**  - Ensures referential integrity for a record in another table.
-
-#### 3. What is a Primary Key?
 The PRIMARY KEY constraint uniquely identifies each row in a table. It must contain UNIQUE values and has an implicit NOT NULL constraint
 
-#### 4. What is a UNIQUE constraint?
-A UNIQUE constraint ensures that all values in a column are different. This provides uniqueness for the column(s) and helps identify each row uniquely. Unlike primary key, there can be **multiple unique constraints** defined per table. The code syntax for UNIQUE is quite similar to that of PRIMARY KEY and can be used interchangeably.
+* **FOREIGN KEY**  - Ensures referential integrity for a record in another table.
+
+
 
 
 
