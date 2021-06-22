@@ -6,7 +6,7 @@ You're settling in at your desk after a delicious and energizing team lunch when
 About 10% of the users in the beta are even seeing the dreaded 504 Gateway Timeout error. The beta users represent a small subset of the overall traffic, but this is something that we'd like to understand and fix in the next few days.
 No changes have been deployed to the frontend that powers the recommendation service in several weeks.
 
-
+![image]()
 
 
 #### reference
