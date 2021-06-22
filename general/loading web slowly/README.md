@@ -25,7 +25,6 @@ It takes time for jQuery & JavaScript to be loaded, interpreted and executed. So
 3. Too Much Flash Content
 Although Flash is a great tool for adding interactivity to your website, it is highly likely contributing to your slow page load speed. Flash content is usually **bulky in size and the bigger the file size** is, the slower your pages will load.
 
-
 * Flash is very **bulky** and is not good for performance.
 * Flash used to be cool. It’s not anymore.
 * Look for **HTML5 replacements**.
@@ -37,8 +36,19 @@ Having loads of JavaScript, CSS, and image files can lead to too many HTTP reque
 * Reduce the number of files on your pages where possible. Includes CSS, images, javascript.
 * Minify your CSS and Javascript files reduces # of total files users will have to download.
 
-4. Not Making Use of Caching Techniques
+5. Not Making Use of Caching Techniques
+Caching is known to improve the performance of websites by leaps and bounds. If you’re not caching, you’re missing out. It’s a technique that let’s you store frequently used data points in the ‘cached memory’.
 
+* Caching drastically improves performance.
+* You can cache a bunch of things from HTTP, Database Queries, to images.
+* If you can cache something, do it. But do it carefully so you don’t mess something up. It can be tricky.
+
+6. Unclean Code
+Another common culprit for website slowness is unclean coding. When you make your website, excessive white spaces, inline stylings, empty new lines and unnecessary comments can make the website stylesheet grow larger in size.
+* Attention to detail matters.
+* Don’t be lazy and use **inline CSS**
+* Try not to create multiple CSS stylesheets when you can use a single one.
+Minify!
 
 
 
