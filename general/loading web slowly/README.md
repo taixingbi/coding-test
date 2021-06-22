@@ -37,7 +37,7 @@ Having loads of **JavaScript, CSS, and image files** can lead to too many HTTP r
 * Reduce the number of files on your pages where possible. Includes CSS, images, javascript.
 * Minify your CSS and Javascript files reduces # of total files users will have to download.
 
-5. Not Making Use of Caching Techniques
+5. Not Making Use of **Caching Techniques**
 Caching is known to improve the performance of websites by leaps and bounds. If you’re not caching, you’re missing out. It’s a technique that let’s you store frequently used data points in the ‘cached memory’.
 
 * Caching drastically improves performance.
