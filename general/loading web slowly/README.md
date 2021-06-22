@@ -50,7 +50,24 @@ Another common culprit for website slowness is unclean coding. When you make you
 * Try not to create **multiple CSS stylesheets** when you can use a single one.
 Minify!
 
+7. Not Using gZIP Compression
+By enabling gZIP compression, you instruct the server to wrap all the web objects (images, CSS, JavaScript files etc) in a single container before they are sent over to the requesting browser.
+* gZIP compression is an easy performance win.
+* It wraps up all your web objects (images, CSS, jS) in a single container to be sent to requesting browser
 
+8. Too Many Ads
+The most obvious impact of overloading your website with advertisements is the addition of HTTP requests, which would need additional processing time.
+Especially the rich media ads – like pop unders, interstitials and auto downloads – may create **hundreds of HTTP requests** making your website unresponsive.
+
+9. Not Using a CDN Service
+
+A CDN service is a distributed network of independent servers deployed in different geographic locations, that can serve web content to visitors with high availability and high performance.
+* Not mandatory, but CDN can help. Especially if you have visitors from around the world.
+* CDN caches frequently accessed data in geographically distributed datacenters.
+* They can help minimise round-trip-time (RTT) and serve content faster for your audiences.
+
+10. Bad Hosting
+scale up serice or kubernetes 
 
 #### reference
 [1] https://dev.to/yeahch/brainstorm-problem-i-faced-during-technical-interview-3mgf          
