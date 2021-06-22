@@ -47,7 +47,7 @@ Caching is known to improve the performance of websites by leaps and bounds. If 
 Another common culprit for website slowness is unclean coding. When you make your website, excessive white spaces, inline stylings, empty new lines and unnecessary comments can make the website stylesheet grow larger in size.
 * Attention to detail matters.
 * Don’t be lazy and use **inline CSS**
-* Try not to create multiple CSS stylesheets when you can use a single one.
+* Try not to create **multiple CSS stylesheets** when you can use a single one.
 Minify!
 
 
