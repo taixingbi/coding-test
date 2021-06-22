@@ -21,15 +21,23 @@ No changes have been deployed to the frontend that powers the recommendation ser
 The availability of JavaScript/jQuery plugins has made it really convenient to add dynamic content to websites. However, if implemented incorrectly, JavaScript can cripple your website’s page load speed.
 It takes time for jQuery & JavaScript to be loaded, interpreted and executed. So if you are using **multiple API calls** to render JavaScript/jQuery data, it can result in significant delay while loading the web pages.
 
-Flash is very **bulky** and is not good for performance.
-Flash used to be cool. It’s not anymore.
-Look for **HTML5 replacements**.
 
 3. Too Much Flash Content
 Although Flash is a great tool for adding interactivity to your website, it is highly likely contributing to your slow page load speed. Flash content is usually **bulky in size and the bigger the file size** is, the slower your pages will load.
+
+
+* Flash is very **bulky** and is not good for performance.
+* Flash used to be cool. It’s not anymore.
+* Look for **HTML5 replacements**.
+
+4. Excessive HTTP Requests
+Having loads of JavaScript, CSS, and image files can lead to too many HTTP requests. When a user visits your web page, the browser performs several requests to load each of these files – which can significantly reduce the page load speed.
+
 * Use Sprites to reduce HTTP requests.
 * Reduce the number of files on your pages where possible. Includes CSS, images, javascript.
 * Minify your CSS and Javascript files reduces # of total files users will have to download.
+
+4. Not Making Use of Caching Techniques
 
 
 
