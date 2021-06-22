@@ -12,10 +12,10 @@ No changes have been deployed to the frontend that powers the recommendation ser
 #### anwser
 * beta landing page for a user is averaging around 10 seconds [2][3]
 1. Unoptimized Images. A **large volume of unoptimized images** is usually the most common reason behind website slowness. High-resolution images can consume lots of bandwidth while loading. Uploading larger sized images and then scaling them down can unnecessarily increase the size of your web page – causing your website to load slowly.  
-* Check the file size of your images, anything above 1MB is really unacceptable.
-* Use JPEG instead of PNG, especially for larger images. Icons are ok.
-* Use waterfall tests to easily scan image sizes and take corrective action.
-* Unoptimized images can cost you money in form of bandwidth overage.
+* Check the file size of your images, anything **above 1MB** is really unacceptable.
+* Use **JPEG instead of PNG**, especially for larger images. Icons are ok.
+* Use **waterfall tests** to easily scan image sizes and take corrective action.
+* Unoptimized images can cost you money in form of **bandwidth overage**.
 
 3. JavaScript Issues
 The availability of JavaScript/jQuery plugins has made it really convenient to add dynamic content to websites. However, if implemented incorrectly, JavaScript can cripple your website’s page load speed.
