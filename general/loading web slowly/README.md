@@ -31,7 +31,7 @@ Although Flash is a great tool for adding interactivity to your website, it is h
 * Look for **HTML5 replacements**.
 
 4. Excessive HTTP Requests
-Having loads of JavaScript, CSS, and image files can lead to too many HTTP requests. When a user visits your web page, the browser performs several requests to load each of these files – which can significantly reduce the page load speed.
+Having loads of **JavaScript, CSS, and image files** can lead to too many HTTP requests. When a user visits your web page, the browser performs several requests to load each of these files – which can significantly reduce the page load speed.
 
 * Use Sprites to reduce HTTP requests.
 * Reduce the number of files on your pages where possible. Includes CSS, images, javascript.
