@@ -17,7 +17,7 @@ No changes have been deployed to the frontend that powers the recommendation ser
 4. A 2-second delay in load time resulted in abandonment rates of up to 87%.
 5. Google itself aims for under half-a-second load time
 6. A VERY SLOW SITE can be a NEGATIVE Google Ranking factor.
-7. The average load time for mobile sites is 19 seconds over 3G connections. Models predict that publishers whose mobile sites load in 5 seconds earn up to 2x more 8. mobile ad revenue than those whose sites load in 19 seconds.
+7. The average load time for mobile sites is **19 seconds over 3G connections**. Models predict that publishers whose mobile sites load in 5 seconds earn up to 2x more 8. mobile ad revenue than those whose sites load in 19 seconds.
 9. People would not return to websites that took longer than four seconds to load and formed a “negative perception” of a company with a badly put-together site or 10. would tell their family and friends about their experiences.
 11. Slow load times are a primary reason visitors abandon a checkout process.
 12. In studies, Page Time Load goes from 1s to 3s – the probability of bounce increases 32%.
@@ -25,7 +25,7 @@ No changes have been deployed to the frontend that powers the recommendation ser
 14. In studies, Page Time Load goes from 1s to 6s – the probability of bounce increases 106%.
 15. In studies, Page Time Load goes from 1s to 10s – the probability of bounce increases 123%.
 16. In a recent study, the average load time for a web page was 3.21s.
-17. In a recent study, the average load time for a mobile web page is 22 seconds.
+17. In a recent study, the average load time for a **mobile web page is 22 seconds**.
 18. For every 100ms decrease in homepage load speed, a company’s customer base saw a 1.11% lift in session based conversion
 Users read fewer articles each day whilst experiencing delays loading each web page. The speed of the site negatively impacts a user’s session depth, no matter how small the delay.
 19. Two thirds of UK consumers (67%) cite slow loading times as the main reason they would abandon an online purchase.
@@ -51,4 +51,5 @@ Google might crawl your site slower if you have a very slow site (confirmed by G
 
 
 #### reference
-https://dev.to/yeahch/brainstorm-problem-i-faced-during-technical-interview-3mgf
+[1] https://dev.to/yeahch/brainstorm-problem-i-faced-during-technical-interview-3mgf
+[2] https://www.hobo-web.co.uk/your-website-design-should-load-in-4-seconds/
