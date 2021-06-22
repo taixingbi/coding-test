@@ -62,7 +62,7 @@ Especially the rich media ads – like pop unders, interstitials and auto downlo
 
 9. Not Using a CDN Service
 
-A CDN service is a distributed network of independent servers deployed in different geographic locations, that can serve web content to visitors with high availability and high performance.
+A CDN service is a **distributed network of independent servers** deployed in different geographic locations, that can serve web content to visitors with high availability and high performance.
 * Not mandatory, but CDN can help. Especially if you have visitors from around the world.
 * CDN caches frequently accessed data in geographically distributed datacenters.
 * They can help minimise round-trip-time (RTT) and serve content faster for your audiences.
