@@ -20,6 +20,7 @@ No changes have been deployed to the frontend that powers the recommendation ser
 2. JavaScript Issues
 The availability of JavaScript/jQuery plugins has made it really convenient to add dynamic content to websites. However, if implemented incorrectly, JavaScript can cripple your website’s page load speed.
 It takes time for jQuery & JavaScript to be loaded, interpreted and executed. So if you are using **multiple API calls** to render JavaScript/jQuery data, it can result in significant delay while loading the web pages.
+* Asynchronous loading is a must.
 
 
 3. Too Much Flash Content
