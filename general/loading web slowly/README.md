@@ -9,5 +9,10 @@ No changes have been deployed to the frontend that powers the recommendation ser
 ![image](https://github.com/taixingbi/interview-question/blob/master/general/loading%20web%20slowly/2.png)
 ![image](https://github.com/taixingbi/interview-question/blob/master/general/loading%20web%20slowly/3.png)
 
+#### anwser
+* beta landing page for a user is averaging around 10 seconds
+
+
+
 #### reference
 https://dev.to/yeahch/brainstorm-problem-i-faced-during-technical-interview-3mgf
