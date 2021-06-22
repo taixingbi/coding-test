@@ -51,5 +51,5 @@ Google might crawl your site slower if you have a very slow site (confirmed by G
 
 
 #### reference
-[1] https://dev.to/yeahch/brainstorm-problem-i-faced-during-technical-interview-3mgf
+[1] https://dev.to/yeahch/brainstorm-problem-i-faced-during-technical-interview-3mgf          
 [2] https://www.hobo-web.co.uk/your-website-design-should-load-in-4-seconds/
