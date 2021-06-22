@@ -27,6 +27,9 @@ Look for **HTML5 replacements**.
 
 3. Too Much Flash Content
 Although Flash is a great tool for adding interactivity to your website, it is highly likely contributing to your slow page load speed. Flash content is usually **bulky in size and the bigger the file size** is, the slower your pages will load.
+* Use Sprites to reduce HTTP requests.
+* Reduce the number of files on your pages where possible. Includes CSS, images, javascript.
+* Minify your CSS and Javascript files reduces # of total files users will have to download.
 
 
 
