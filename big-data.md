@@ -55,7 +55,7 @@ Referred as the core of Hadoop, MapReduce is a programming framework to process 
 
 ### Kafka
 
-1.  Mention what is the traditional method of message transfer?
+1.  Mention what is the traditional method of **message transfer**?
 The traditional method of message transfer includes two methods
 * **Queuing**: In a queuing (rabbitmq), a pool of consumers may read message from the server and each message goes to one of them
 * **Publish-Subscribe**(producer-consumer): In this model, messages are broadcasted to all consumers
