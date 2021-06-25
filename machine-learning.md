@@ -26,7 +26,7 @@ true positive rate: the amount of positives your model claims compared to the ac
 positive predictive value: measure of the amount of accurate positives your model claims compared to the number of positives
 
 ##### Type I and II
-Type I error is false positive, Type II error is a false negative
+Type I error is **false positive**, Type II error is a **false negative**
 
 #### 4. Bayes’ Theorem
 Bayes’ Theorem gives you the **posterior probability** of an **event given what is known as prior knowledge**.
