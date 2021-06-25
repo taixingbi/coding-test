@@ -8,7 +8,7 @@
   * a. Simplifying The Model
   * b. Early Stopping
   * c. Increasing size of the data.
-  * d. Regularization. reduce the complexity of the model by adding a penalty term to the loss function.
+  * d. Regularization. reduce the complexity of the model by adding a **penalty term** to the loss function.
 
 
 
