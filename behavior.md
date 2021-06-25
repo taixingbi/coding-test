@@ -4,11 +4,12 @@
 ##### Tell me about a time you've worked with a difficult internal stakeholder 
 My approach to dealing with difficult stakeholders has always been:
 
-Engage - Directly engage with the stakeholder, meet or chat
-Listen - Listen to what they have to say, patiently.
-Understand - Understand their POV, even if it is impossible at some times
-Ask - Ask clarifying questions. Why? When? What?
-Engage again - Keep them in the loop until there is closure
+* Engage - Directly engage with the stakeholder, meet or chat
+* Listen - Listen to what they have to say, patiently.
+* Understand - Understand their POV, even if it is impossible at some times
+* Ask - Ask clarifying questions. Why? When? What?
+* Engage again - Keep them in the loop until there is closure
+
 For example, we were in the final stages of a very important, strategic project for our organization. I was leading the product efforts. We had completed 80% of the project and were racing towards the toughest 20% with 3 weeks left. I got a pretty heated email from one of the senior leaders in the organization that this project is a total failure and that we should stop all efforts towards this project.
 The task in hand was 2 fold. Continue taking the project to the finish line. Bring the difficult stakeholder into the vision of the project. Bonus - excite them about the project.
 The following were the specific actions I undertook:
