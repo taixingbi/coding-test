@@ -13,7 +13,7 @@
 
 #### 2. ROC curve(Receiver operating characteristic)
 The ROC curve is a graphical representation of the contrast between **true positive rates** and the **false positive rate** at various **thresholds**.
-![image](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#/media/File:Roccurves.png)
+![alt image](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#/media/File:Roccurves.png)
 #### 3. Define precision and recall.
 ##### Recall 
 true positive rate: the amount of positives your model claims compared to the actual number of positives there are throughout the data.     
