@@ -40,6 +40,8 @@ L2 regularization tends to spread error among all the terms, while L2 correspond
 Probability is used to finding the **chance of occurrence** of a particular situation, 
 Likelihood is used to generally **maximizing the chances of a particular situation** 
 
+#### 7. cross-validation
+Cross-validation is a resampling procedure used to evaluate machine learning models on a **limited data sample**. The procedure has a single parameter called **k that refers to the number of groups that a given data sample is to be split into**. As such, the procedure is often called k-fold cross-validation
 
 
 
