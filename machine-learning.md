@@ -51,4 +51,7 @@ An imbalanced dataset is when you have, for example, a classification test and 9
 * Resample the dataset to correct for imbalances.
 * Try a different algorithm altogether on your dataset.
 
+#### 9. kernel trick
+The Kernel trick involves kernel functions that can enable in higher-dimension spaces without explicitly calculating the coordinates of points within that dimension: instead, kernel functions compute the **inner products between the images of all pairs of data** in a feature space
+
 
