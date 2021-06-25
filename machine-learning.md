@@ -36,6 +36,11 @@ Mathematically, it’s expressed as the **true positive rate of a condition samp
 L1 is more binary/sparse, with many variables either being assigned a **1 or 0** in weighting. L1 corresponds to setting a **Laplacean** prior on the terms, 
 L2 regularization tends to spread error among all the terms, while L2 corresponds to a **Gaussian** prior.
 
+#### 6. What’s the difference between probability and likelihood?
+Probability is used to finding the **chance of occurrence** of a particular situation, 
+Likelihood is used to generally **maximizing the chances of a particular situation** 
+
+
 
 
 
