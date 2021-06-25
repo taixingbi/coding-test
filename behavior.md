@@ -39,6 +39,10 @@ The senior leader had a few clarifying questions, but this time after consuming 
 #####  Tell me about a problem you had to solve and how you did itBe sure to describe the full life cycle of the project i.e. what the problem was, gathering requirements, each step  you took to solve the problem and why you did each of those steps (what it would do for the problem) and what tools you used during the steps, the solution to the problem
 
 #####  Tell me about why you want to work for Resonate
+I see this opportunity as a way to contribute to an exciting/forward-thinking/fast-moving company/industry, and I feel I can do so by/with my … ”
+“I feel my skills are particularly well-suited to this position because … ”
+“I believe I have the type of knowledge to succeed in this role and at the company because … ”
+“I’m excited about this job opportunity, as it would allow me to … ”
 
 #####  Tell me where you see yourself in 5 years
 
