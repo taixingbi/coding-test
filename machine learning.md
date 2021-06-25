@@ -4,11 +4,11 @@
 
 **Variance** is error due to **too much complexity** in the learning algorithm you’re using. This leads to the algorithm being **highly sensitive** to high degrees of variation in your training data, which can lead your model to **overfit** the data
 
-  * avoid overfitting
-  a. Simplifying The Model
-  b. Early Stopping
-  c. Increasing size of the data.
-  d. Regularization. reduce the complexity of the model by adding a penalty term to the loss function.
+##### avoid overfitting
+  * a. Simplifying The Model
+  * b. Early Stopping
+  * c. Increasing size of the data.
+  * d. Regularization. reduce the complexity of the model by adding a penalty term to the loss function.
 
 
 
