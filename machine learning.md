@@ -4,6 +4,12 @@
 
 **Variance** is error due to **too much complexity** in the learning algorithm you’re using. This leads to the algorithm being **highly sensitive** to high degrees of variation in your training data, which can lead your model to **overfit** the data
 
+  * avoid overfitting
+  1. Simplifying The Model
+
+
+
+
 #### 2. Explain how a ROC curve works.
 The ROC curve is a graphical representation of the contrast between true positive rates and the false positive rate at various thresholds.
 
