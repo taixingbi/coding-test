@@ -1,7 +1,7 @@
 
 
 
-##### Tell me about a time you've worked with a difficult internal stakeholder 
+##### 1. Tell me about a time you've worked with a difficult internal stakeholder 
 My approach to dealing with difficult stakeholders has always been:
 
 * Engage - Directly engage with the stakeholder, meet or chat
@@ -22,7 +22,7 @@ Exposed the backlog visibility to add in new projects that could be leveraged us
 Presented all these data to the senior leader on the above. - Engage again
 The senior leader had a few clarifying questions, but this time after consuming the above information they were more conducive to hearing out our plan of action and also started suggesting some ideas on the future roadmaps and improvements. They were happy with the results and were hoping to engage on the concerns that we disagreed on.
 
-#####  Tell me about a time you've worked with a difficult vendor
+#####  2. Tell me about a time you've worked with a difficult vendor
 * Situation: "At my last job, a customer came in cursing and yelling—the works. She was complaining about an item she wanted to return, but she didn't have her receipt.”
 
 * Task: “I was the rep working at the counter that day, so I was responsible for handling customer inquiries and returns. I knew the customer’s reaction was out of frustration, so I didn't take it personally and I made sure she knew her concerns were being heard.”
@@ -30,7 +30,11 @@ The senior leader had a few clarifying questions, but this time after consuming 
 * Action: “I listened carefully and apologized. I explained that I wasn't able to give her a cash refund without the receipt due to the company’s policy, but that I could allow her to have the same amount in store credit. I also recommended a replacement product that would better suit her needs and was similarly priced to the old product.”
 
 * Result: “The customer was satisfied with the store credit, and she used it to purchase the replacement product that I recommended. It ended up being a win-win situation for everyone."
-
+#####  3. Tell me about why you want to work for Resonate
+I see this opportunity as a way to contribute to an exciting/forward-thinking/fast-moving company/industry, and I feel I can do so by/with my … ”
+“I feel my skills are particularly well-suited to this position because … ”
+“I believe I have the type of knowledge to succeed in this role and at the company because … ”
+“I’m excited about this job opportunity, as it would allow me to … ”
 
 #####  Tell me about the worst project you've worked on and why 
 
@@ -38,11 +42,7 @@ The senior leader had a few clarifying questions, but this time after consuming 
 
 #####  Tell me about a problem you had to solve and how you did itBe sure to describe the full life cycle of the project i.e. what the problem was, gathering requirements, each step  you took to solve the problem and why you did each of those steps (what it would do for the problem) and what tools you used during the steps, the solution to the problem
 
-#####  Tell me about why you want to work for Resonate
-I see this opportunity as a way to contribute to an exciting/forward-thinking/fast-moving company/industry, and I feel I can do so by/with my … ”
-“I feel my skills are particularly well-suited to this position because … ”
-“I believe I have the type of knowledge to succeed in this role and at the company because … ”
-“I’m excited about this job opportunity, as it would allow me to … ”
+
 
 #####  Tell me where you see yourself in 5 years
 
