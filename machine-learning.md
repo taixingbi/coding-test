@@ -17,7 +17,7 @@ The ROC curve is a graphical representation of the contrast between **true posit
 
 #### 3. Define precision and recall, F1 score
 <img src="https://github.com/taixingbi/interview-question/blob/master/images/3.png" width="300" height="500">
-<img src="https://github.com/taixingbi/interview-question/blob/master/images/4.png" width="200" height="200">
+<img src="https://github.com/taixingbi/interview-question/blob/master/images/4.png" width="300" height="100">
 
 
 ##### Recall 
