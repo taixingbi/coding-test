@@ -1,6 +1,6 @@
 #### 1. What’s the trade-off between bias and variance?
 
-**Bias** is **error** due to erroneous or overly **simplistic assumptions** in the learning algorithm you’re using.  This can lead to the model **underfit ** your data, making it **hard for it to have high predictive accuracy** and for you to generalize your knowledge from the training set to the test set.
+**Bias** is **error** due to erroneous or overly **simplistic assumptions** in the learning algorithm you’re using.  This can lead to the model **underfit** your data, making it **hard for it to have high predictive accuracy** and for you to generalize your knowledge from the training set to the test set.
 
 **Variance** is error due to **too much complexity** in the learning algorithm you’re using. This leads to the algorithm being **highly sensitive** to high degrees of variation in your training data, which can lead your model to **overfit** the data
 
