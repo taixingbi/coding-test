@@ -43,6 +43,11 @@ Likelihood is used to generally **maximizing the chances of a particular situati
 #### 7. cross-validation
 Cross-validation is a resampling procedure used to evaluate machine learning models on a **limited data sample**. The procedure has a single parameter called **k that refers to the number of groups that a given data sample is to be split into**. As such, the procedure is often called k-fold cross-validation
 
+#### 8. handle an imbalanced dataset
+An imbalanced dataset is when you have, for example, a classification test and 90% of the data is in one class. That leads to problems: **an accuracy of 90% can be skewed** if you have no predictive power on the other category of data! Here are a few tactics to get over the hump:
 
+* Collect more data to even the imbalances in the dataset.
+* Resample the dataset to correct for imbalances.
+* Try a different algorithm altogether on your dataset.
 
 
