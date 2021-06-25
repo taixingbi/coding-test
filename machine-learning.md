@@ -10,6 +10,7 @@
   * c. Increasing size of the data.
   * d. Regularization. reduce the complexity of the model by adding a **penalty term** to the loss function. (increase lamda ) 
   * e. Dropouts, modify the network itself
+  * f. ensemble techniques: combination of learning algorithms
 
 #### 2. ROC curve(Receiver operating characteristic)
 The ROC curve is a graphical representation of the contrast between **true positive rates** and the **false positive rate** at various **thresholds**.
