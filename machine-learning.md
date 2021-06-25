@@ -25,8 +25,14 @@ true positive rate: the amount of positives your model claims compared to the ac
 ##### Precision
 positive predictive value: measure of the amount of accurate positives your model claims compared to the number of positives
 
-####  Bayes’ Theorem
+#### 4. Bayes’ Theorem
 Bayes’ Theorem gives you the **posterior probability** of an **event given what is known as prior knowledge**.
 Mathematically, it’s expressed as the **true positive rate of a condition sample divided by the sum of the false positive rate of the population and the true positive rate of a condition**
+
+#### 5. Explain the difference between L1 and L2 regularization.
+L1 is more binary/sparse, with many variables either being assigned a **1 or 0** in weighting. L1 corresponds to setting a **Laplacean** prior on the terms, 
+L2 regularization tends to spread error among all the terms, while L2 corresponds to a **Gaussian** prior.
+
+
 
 
