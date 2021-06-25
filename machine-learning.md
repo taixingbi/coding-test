@@ -16,6 +16,8 @@ The ROC curve is a graphical representation of the contrast between **true posit
 <img src="https://github.com/taixingbi/interview-question/blob/master/images/2.png" width="250" height="250">
 
 #### 3. Define precision and recall.
+<img src="https://github.com/taixingbi/interview-question/blob/master/images/3.png" width="250" height="250">
+
 ##### Recall 
 true positive rate: the amount of positives your model claims compared to the actual number of positives there are throughout the data.     
 ##### Precision
