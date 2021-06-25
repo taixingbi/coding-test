@@ -11,13 +11,8 @@
   * d. Regularization. reduce the complexity of the model by adding a **penalty term** to the loss function. (increase lamda ) 
   * e. Dropouts, modify the network itself
 
-
-
-
-
-
 #### 2. Explain how a ROC curve works.
-The ROC curve is a graphical representation of the contrast between true positive rates and the false positive rate at various thresholds.
+The ROC curve is a graphical representation of the contrast between **true positive rates** and the **false positive rate** at various **thresholds**.
 
 #### 3. Define precision and recall.
 ##### Recall 
