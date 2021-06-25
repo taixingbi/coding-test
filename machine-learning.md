@@ -26,7 +26,7 @@ true positive rate: the amount of positives your model claims compared to the ac
 positive predictive value: measure of the amount of accurate positives your model claims compared to the number of positives
 
 ####  Bayes’ Theorem
-Bayes’ Theorem gives you the posterior probability of an event given what is known as prior knowledge.
-Mathematically, it’s expressed as the true positive rate of a condition sample divided by the sum of the false positive rate of the population and the true positive rate of a condition
+Bayes’ Theorem gives you the **posterior probability** of an **event given what is known as prior knowledge**.
+Mathematically, it’s expressed as the **true positive rate of a condition sample divided by the sum of the false positive rate of the population and the true positive rate of a condition**
 
 
