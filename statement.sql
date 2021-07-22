@@ -1,11 +1,26 @@
 
 https://www.w3schools.com/sql/default.asp
 --------------------------------------------------------demo--------------------------------------------------------------------------
+1
 select name, age 
 from users 
 where sex = 'female' and age > 10 and age is not null
 group by age 
 order by count(age) desc limit 10, 10
+
+2
+select 
+    Department.Name as Department, 
+    Employee.Name as Employee, 
+    Salary #Employee.Salary as Salary 
+from 
+    Department  
+        left join 
+    Employee  on Department.Id = Employee.DepartmentId 
+
+where (Department.Id, Employee.Salary ) 
+        in 
+      (select DepartmentId, Max(Salary) from Employee group by DepartmentId)
 ----------------------------------------------------------------------------------------------------------------------------------
 #### basic 
 ----------------------------------------------------------------------------------------------------------------------------------
