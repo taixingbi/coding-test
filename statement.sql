@@ -3,7 +3,7 @@ https://www.w3schools.com/sql/default.asp
 --------------------------------------------------------demo--------------------------------------------------------------------------
 1
 select name, age 
-from users 
+from User 
 where sex = 'female' and age > 10 and age is not null
 group by age 
 order by count(age) desc limit 10, 10
@@ -11,12 +11,12 @@ order by count(age) desc limit 10, 10
 2
 select 
     Department.Name as Department, 
-    Employee.Name as Employee, 
-    Salary #Employee.Salary as Salary 
+    User.Name as User, 
+    Salary  
 from 
-    Department  
+    Provider 
         left join 
-    Employee  on Department.Id = Employee.DepartmentId 
+    User  on Department.Id = Employee.DepartmentId 
 
 where (Department.Id, Employee.Salary ) 
         in 
