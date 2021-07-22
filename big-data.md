@@ -48,7 +48,11 @@ Referred as the core of Hadoop, MapReduce is a programming framework to process 
 | Spark provides **caching and in-memory data storage** | Hadoop is highly **disk-dependent** |
 
 
-
+### Four Major Aspects of Spark Streaming
+Fast recovery from failures and stragglers
+Better load balancing and resource usage
+Combining of streaming data with static datasets and interactive queries
+Native integration with advanced processing libraries (SQL, machine learning, graph processing)
 
 
 
