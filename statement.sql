@@ -10,17 +10,13 @@ order by count(age) desc limit 10, 10
 
 2
 select 
-    Department.Name as Department, 
-    User.Name as User, 
-    Salary  
+    User.Name as name, 
+    Profile.age as age, 
 from 
-    Provider 
+    User 
         left join 
-    User  on Department.Id = Employee.DepartmentId 
+    Profile  on User.id = Profile.user_id
 
-where (Department.Id, Employee.Salary ) 
-        in 
-      (select DepartmentId, Max(Salary) from Employee group by DepartmentId)
 ----------------------------------------------------------------------------------------------------------------------------------
 #### basic 
 ----------------------------------------------------------------------------------------------------------------------------------
