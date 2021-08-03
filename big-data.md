@@ -80,3 +80,8 @@ Apache Kafka has following benefits above traditional messaging technique
 
 In Kafka cluster, broker term is used to refer **Server**.
 
+### monitor pipelines
+1. Latency—The time it takes for your service to fulfill a request
+2. Traffic—How much demand is directed at your service
+3. Errors—The rate at which your service fails
+4. Saturation—A measure of how close to fully utilized the service’s resources are
