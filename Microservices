@@ -4,5 +4,6 @@ Microservice Architecture is an architectural development style which builds an 
 for a business domain.
 
 ### 2  Name three commonly used tools for Microservices
-
-1.) Wiremock, 2.) Docker and 3.) Hysrix are important Microservices tool.
+1. Wiremock
+2. Docker 
+3. Hysrix are important Microservices tool.
