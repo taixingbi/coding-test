@@ -1,3 +1,8 @@
 ### 1 Explain microservices architecture
 
-Microservice Architecture is an architectural development style which builds an application as a collection of small autonomous services developed for a business domain.
+Microservice Architecture is an architectural development style which builds an application as a collection of small autonomous services developed 
+for a business domain.
+
+### 2  Name three commonly used tools for Microservices
+
+1.) Wiremock, 2.) Docker and 3.) Hysrix are important Microservices tool.
